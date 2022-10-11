@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;///dd
 
 public class baek1157 {
-	static String s;//
+	static String s;
     static String r_s;
     static int count[];
 	public static void main(String[] args) throws IOException {
