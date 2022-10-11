@@ -5,13 +5,13 @@ import java.io.InputStreamReader;
 import java.util.Arrays;///dd
 
 public class baek1157 {
-	static String s;
+	static String s;//
     static String r_s;
     static int count[];
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
          s=br.readLine();
-         r_s=s.toUpperCase(); // ?�문자 변??
+         r_s=s.toUpperCase(); // ?�문자 변??
          count=new int[26];
          
          for(int i=0;i<s.length();i++) {
