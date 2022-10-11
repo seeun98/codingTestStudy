@@ -1,0 +1,55 @@
+# 백준_1157_단어공부 </br>
+https://www.acmicpc.net/problem/1157 
+
+
+### 알고리즘 
+
+```java
+import java.util.*;
+
+public class test {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.next();
+        str = str.toUpperCase();
+        //System.out.println(str);
+        Map<Character, Integer> map = new HashMap<>(); //각 char에 맞게 개수 셀 거
+        for(int i = 0; i < str.length(); i++){
+            char c = str.charAt(i);
+            boolean isInMap = false;
+            for(char key:map.keySet()){ //찾아봐서 key에 있는 값이면 value 값 1씩 올려주기
+                if(key == c) {
+                    map.replace(c, map.get(c) + 1);
+                    isInMap = true;
+                }
+            }
+            if (isInMap == false){ //아니면 초기화
+                map.put(c, 1);
+            }
+        }
+
+//        for(Map.Entry<Character, Integer> entrySet : map.entrySet()){
+//            System.out.println(entrySet.getKey() + ":" + entrySet.getValue());
+//        }
+
+        int max = Integer.MIN_VALUE;
+        char maxStr = ' ';
+        for(Map.Entry<Character, Integer> entrySet : map.entrySet()){
+            if (max < entrySet.getValue()) { //max 값 찾기
+                max = entrySet.getValue();
+                maxStr = entrySet.getKey();
+            }
+        }
+
+        int cnt = 0;
+        for(Map.Entry<Character, Integer> entrySet : map.entrySet()){
+            if (max == entrySet.getValue()){ //max 값 여러개인지 찾기
+                cnt++;
+            }
+
+        }
+        if (cnt == 1) System.out.println(maxStr);
+        else if (cnt > 1) System.out.println("?");
+    }
+}
+```
