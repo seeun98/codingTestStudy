@@ -10,6 +10,7 @@ public class Main{
         String str = sc.next();
         str = str.toLowerCase();
         
+        // 배열 2개 생성
         int[] arr1 = new int[1000001];
         int[] arr2 = new int[1000001];
         
@@ -32,5 +33,6 @@ public class Main{
             }
         }
         System.out.println(answer);
+        System.out.println("확인용");
     }
 }
