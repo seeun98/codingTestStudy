@@ -21,12 +21,12 @@
 (2) QnA  
   
 ### 2. 폴더 구조
-- 본인이름/주차/카테고리/Q문제번호.java
-- 파일명
+- 본인이름/언어/카테고리(알고리즘)/Q문제번호.java
+- e.g.,) 파일명
   - 백준
-    - seeun/week1/문자열/B1463.java
+    - seeun/JAVA/문자열/B1463.java
   - 프로그래머스
-    - seeun/week1/SELECT/모든 레코드 조회하기.md
+    - seeun/SQL/SELECT/모든 레코드 조회하기.md
   
 ## 👨‍💻 Github </br>
   
