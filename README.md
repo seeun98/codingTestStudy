@@ -38,7 +38,8 @@
     - seeun/pgm/SQL/SELECT/모든 레코드 조회하기.md
     - taeseung/pgm/JAVA/몫 구하기.java
   - 예시 사진
-  <img width="303" alt="image" src="https://user-images.githubusercontent.com/96964263/195966098-4ee10c02-907e-4de5-8bea-ce24f303c56c.png">
+  
+  <img width="300px" alt="image" src="image/example1.png">
 
 ## 👨‍💻 Github </br>
   
@@ -50,13 +51,24 @@
     
   #### Commit
   - commit message는 아래와 같이.
-    - [백준-Q문제번호] 문제이름
-    - [프로그래머스-SQL] 문제이름
-    - e.g.,) [백준-Q1157] 단어공부
-             
-             [프로그래머스-JAVA] 몫 구하기
-             
-             [프로그래머스-SQL] 조건에 맞는 회원수 구하기
+    - [백준-Q문제번호] 문제이름 <br>
+      [프로그래머스-SQL] 문제이름
+    - e.g.,) <br>
+      [백준-Q1157] 단어공부 <br>
+      [프로그래머스-JAVA] 몫 구하기 <br>
+      [프로그래머스-SQL] 조건에 맞는 회원수 구하기
+
+<details>
+<summary style="font-size: x-large; font-weight: bold">👨‍💻 Weekly Log</summary>
+<hr>
+<ul>
+    <li>
+        <a href="WeeklyLog/1st_WeeklyLog.md">1ST_WeeklyLog</a>
+    </li>
+</ul>
+
+</details>
+
 
 
 작성자 : 이세은, 최태승
