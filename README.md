@@ -25,6 +25,7 @@
     - 위치기반 애플리케이션(웹/앱) 개발
   
   - 기술 블로그 운영 
+    - https://isshosng.tistory.com/ 
 
 
 
