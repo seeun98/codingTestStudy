@@ -59,8 +59,8 @@
       [프로그래머스-SQL] 조건에 맞는 회원수 구하기
 
 <details>
-<summary style="font-size: large; font-weight: bold">Weekly Log</summary>
-
+<summary style="font-size: x-large; font-weight: bold">👨‍💻 Weekly Log</summary>
+<hr>
 <ul>
     <li>
         <a href="WeeklyLog/1st_WeeklyLog.md">1ST_WeeklyLog</a>
