@@ -13,7 +13,8 @@
 #### 최태승 : 배열을 만들어 해당 인덱스값을 증가시키는 방법으로 문제를 풀이함
 링크: https://isshosng.tistory.com/54
 
-#### 이세은 :
+#### 이세은 : Map 인터페이스를 통해 알파벳 키값에 해당한 개수를 세는 방법으로 풀이
+링크: https://broadleaf-palm-bbe.notion.site/744bdd24136e4761a50efd20405e0a4c
 
 #### 왕종휘 : 아스키코드 + 배열을 이용한 풀이
 링크: https://gist.github.com/woowang789/066470e0f38cbb02fd2114b0b79b80fe
