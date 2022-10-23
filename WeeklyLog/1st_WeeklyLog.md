@@ -18,7 +18,8 @@
 #### 왕종휘 : 아스키코드 + 배열을 이용한 풀이
 링크: https://gist.github.com/woowang789/066470e0f38cbb02fd2114b0b79b80fe
 
-#### 소규석 :
+#### 소규석 : 소문자로 값을 입력받아 이중 for문을 사용한 풀이
+링크: https://gist.github.com/thrbtjr/cf926ff948ee9c6929c61dd45b8ee17b
 
 #### 박세영 :
 
