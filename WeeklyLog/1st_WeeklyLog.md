@@ -22,7 +22,8 @@
 #### 소규석 : 소문자로 값을 입력받아 이중 for문을 사용한 풀이
 링크: https://gist.github.com/thrbtjr/cf926ff948ee9c6929c61dd45b8ee17b
 
-#### 박세영 :
+#### 박세영 : 횟수를 받는 배열을 만들어 전체 단어를 검사, 같은 방식으로 결과값 도출
+링크: https://readyt0g0.tistory.com/entry/%EB%B0%B1%EC%A4%80-1157
 
 #### 박정훈 : 결석
 
