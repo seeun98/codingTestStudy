@@ -28,7 +28,8 @@
 
 #### 정기범 :
 
-#### 김한울 :
+#### 김한울 : 대문자로 값을 입력 받은 후 아스키 코드와 배열 이용
+링크: https://github.com/HanulK/KOSAedu/blob/main/codeDescription/b1157.md
 
 #### 윤태영 :
 
