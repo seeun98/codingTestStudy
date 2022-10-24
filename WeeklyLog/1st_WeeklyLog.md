@@ -32,7 +32,8 @@
 #### 김한울 : 대문자로 값을 입력 받은 후 아스키 코드와 배열 이용
 링크: https://github.com/HanulK/KOSAedu/blob/main/codeDescription/b1157.md
 
-#### 윤태영 :
+#### 윤태영 : 문자열 분리 후 배열에 문자 개수를 저장하고 최대값을 구하는 방식으로 풀이
+링크: https://velog.io/@yoontaeng/%EB%B0%B1%EC%A4%801157-%EB%8B%A8%EC%96%B4-%EA%B3%B5%EB%B6%80
 
 #### 김주현 :
 
