@@ -27,7 +27,8 @@
 
 #### 박정훈 : 결석
 
-#### 정기범 :
+#### 정기범 : 2개의 배열 중 하나는 오름차순으로 정렬하여 원본 배열과 비교한 풀이 
+링크: https://github.com/seeun98/codingTestStudy/blob/kibeom/src/kibeom/B1157.java
 
 #### 김한울 : 대문자로 값을 입력 받은 후 아스키 코드와 배열 이용
 링크: https://github.com/HanulK/KOSAedu/blob/main/codeDescription/b1157.md
