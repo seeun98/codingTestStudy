@@ -1,4 +1,4 @@
-package jonghwi.pgm.SQL.Algorithm;
+package jonghwi.pgm.Algorithm;
 
 public class P120875 {
     static class Solution {
