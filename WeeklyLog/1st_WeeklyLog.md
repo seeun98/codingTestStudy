@@ -36,7 +36,8 @@
 #### 윤태영 : 문자열 분리 후 배열에 문자 개수를 저장하고 최대값을 구하는 방식으로 풀이
 링크: https://velog.io/@yoontaeng/%EB%B0%B1%EC%A4%801157-%EB%8B%A8%EC%96%B4-%EA%B3%B5%EB%B6%80
 
-#### 김주현 :
+#### 김주현 : 대문자로 변환하여 배열에 횟수 저장 -> 최대값 찾기 -> flag를 사용해 중복값 처리
+링크: https://gist.github.com/KimKayaToast/9e6d7e6a586e9c2f31b927d8fbdc23c6
 
 
 <br>
