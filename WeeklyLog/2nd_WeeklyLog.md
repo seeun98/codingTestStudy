@@ -49,12 +49,13 @@
 <br>
 
 ## 🔻**스터디 사진**
+![image](https://user-images.githubusercontent.com/96964263/198456554-7f9e78c2-d6a1-4579-9751-035faa265113.png)
 
 
 
 <aside>
 
  - 💡 요약
- - 💡 
+ 
 
 </aside>
