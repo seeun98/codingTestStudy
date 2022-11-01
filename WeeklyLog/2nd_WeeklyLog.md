@@ -36,8 +36,8 @@
 #### 정기범 : 
 링크: 
 
-#### 김한울 : 
-링크:
+#### 김한울 : 직선이 이루는 각도를 구하여 비교 (Math.toDegrees, Math.atan2 method 이용)   
+링크: https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%ED%8F%89%ED%96%89.md   
 
 #### 윤태영 : 
 링크: 
