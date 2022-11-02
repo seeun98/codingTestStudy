@@ -24,8 +24,8 @@
 #### 왕종휘 : 
 링크: 
 
-#### 소규석 : 
-링크:
+#### 소규석 : 직선의 기울기 공식을 사용하여 비교 
+링크:https://gist.github.com/thrbtjr/d201f638ec01b6e5b7e7395676e00338
 
 #### 박세영 : 직선의 기울기가 존재하는 모든 경우의 수를 비교
 링크: https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%89%ED%96%89
@@ -42,7 +42,7 @@
 #### 윤태영 : 
 링크: 
 
-#### 김주현 : for문의 i값에 따라 첫번째 점과 비교하면서 기울기가 같으면 평행임을 
+#### 김주현 : for문의 i값에 따라 첫번째 점과 비교하면서 기울기가 같으면 평행임을 이용
 링크: https://gist.github.com/KimKayaToast/c9bc7728850acda14c59520b49d5d143
 
 
