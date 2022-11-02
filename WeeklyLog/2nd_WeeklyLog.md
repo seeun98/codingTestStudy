@@ -18,8 +18,8 @@
 #### 최태승 : 직선의 기울기와 곱셈의 성질 이용 (수학적으로 접근)
 링크: https://isshosng.tistory.com/110
 
-#### 이세은 : 
-링크: 
+#### 이세은 : 조합, 기울기 공식을 사용하여 이중 for문 사용
+링크: https://broadleaf-palm-bbe.notion.site/6cb1965215c74115ba1a0e0bc8f595e0
 
 #### 왕종휘 : 
 링크: 
