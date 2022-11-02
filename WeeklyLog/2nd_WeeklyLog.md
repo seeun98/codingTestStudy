@@ -42,8 +42,8 @@
 #### 윤태영 : 
 링크: 
 
-#### 김주현 : 
-링크: 
+#### 김주현 : for문의 i값에 따라 첫번째 점과 비교하면서 기울기가 같으면 평행임을 
+링크: https://gist.github.com/KimKayaToast/c9bc7728850acda14c59520b49d5d143
 
 
 <br>
