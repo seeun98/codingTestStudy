@@ -39,8 +39,8 @@
 #### 김한울 : 직선이 이루는 각도를 구하여 비교 (Math.toDegrees, Math.atan2 method 이용)   
 링크: https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%ED%8F%89%ED%96%89.md   
 
-#### 윤태영 : 
-링크: 
+#### 윤태영 : 배열과 반복문을 이용한 기울기 비교
+링크: https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%89%ED%96%89
 
 #### 김주현 : for문의 i값에 따라 첫번째 점과 비교하면서 기울기가 같으면 평행임을 이용
 링크: https://gist.github.com/KimKayaToast/c9bc7728850acda14c59520b49d5d143
