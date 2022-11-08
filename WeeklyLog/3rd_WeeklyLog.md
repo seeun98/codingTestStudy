@@ -18,8 +18,8 @@
 #### 이세은:
 링크
 
-#### 왕종휘:
-링크
+#### 왕종휘: while문 + for문을 이용한 단순 풀이
+링크 : https://gist.github.com/woowang789/6d1639c75512ec944ef8cd8bd13ec336
 
 #### 소규석:
 링크
