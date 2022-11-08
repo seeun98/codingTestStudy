@@ -21,8 +21,8 @@
 #### 이세은 : 조합, 기울기 공식을 사용하여 이중 for문 사용
 링크: https://broadleaf-palm-bbe.notion.site/6cb1965215c74115ba1a0e0bc8f595e0
 
-#### 왕종휘 : 
-링크: 
+#### 왕종휘 : 직선의 기울기 공식을 변형한 풀이
+링크: https://gist.github.com/woowang789/95fc8ff5d064030814463d26bc33520a
 
 #### 소규석 : 직선의 기울기 공식을 사용하여 비교 
 링크:https://gist.github.com/thrbtjr/d201f638ec01b6e5b7e7395676e00338
