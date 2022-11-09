@@ -56,7 +56,10 @@
 링크 : https://gist.github.com/parkhoome/5396549d4c283d7c9a343576edc84a04
 
 #### 정기범:
-옹알이(1) : 주어진 단어가 4개밖에 없어서, 구할 수 있는 모든 단어의 조합을 만든 후 비교
+다음에 올 숫자 : 등차인지 등비인지 확인 후, 등차인 경우에 먼저 조건을 걸고 그 외의 경우에 등비로 값을 구함 <br>
+링크 : https://gist.github.com/Kieeary/1a377990f36ceafeda3cc6c3675049fe
+
+옹알이(1) : 주어진 단어가 4개밖에 없어서, 구할 수 있는 모든 단어의 조합을 만든 후 비교 <br>
 링크 : https://gist.github.com/Kieeary/f90ac5ea3dad31239dab1f4966d75e32
 
 #### 김한울:
