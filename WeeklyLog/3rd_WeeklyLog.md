@@ -14,14 +14,18 @@
 ### 풀이 과정
 
 #### 최태승:
-다음에 올 숫자 : 등차수열의 조건을 if문에 넣어 풀이했습니다.
+다음에 올 숫자 : 등차수열의 조건을 if문에 넣어 풀이했습니다. <br>
 링크: https://isshosng.tistory.com/113
  
-옹알이(1) : replace 함수를 사용하였으며 왕종휘, 남승현 님의 도움을 받았습니다.
+옹알이(1) : replace 함수를 사용하였으며 왕종휘, 남승현 님의 도움을 받았습니다. <br>
 링크 : https://isshosng.tistory.com/112
 
 #### 이세은:
-링크
+다음에 올 숫자 : 등차 먼저 확인하는 풀이<br>
+링크 : https://broadleaf-palm-bbe.notion.site/0f596704e9a54a5f89a3be1bcfe9719b
+
+옹알이(1) : while문 + for문을 이용한 단순 풀이 <br>
+링크 : https://broadleaf-palm-bbe.notion.site/6287e921e4734b6da319c049d39012d9
 
 #### 왕종휘: 
 다음에 올 숫자 : 등차 먼저 확인하는 풀이<br>
@@ -38,9 +42,10 @@
 링크 : https://gist.github.com/thrbtjr/d7c8dca74352a4a01858bdac5b7a2a41
 
 #### 박세영:
-다음에 올 숫자 : 배열의 0,1,2번째 값을 통해 등차수열/등비수열임을 if 비교 후 결과 계산 
+다음에 올 숫자 : 배열의 0,1,2번째 값을 통해 등차수열/등비수열임을 if 비교 후 결과 계산 <br> 
 링크 : https://readyt0g0.tistory.com/entry/%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90
-옹알이(1) : replace를 이용해 babbling 발음을 교체하여, babbling 외의 발음 유무를 구별
+
+옹알이(1) : replace를 이용해 babbling 발음을 교체하여, babbling 외의 발음 유무를 구별 <br>
 링크 : https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
 #### 박정훈:
@@ -50,17 +55,17 @@
 링크
 
 #### 김한울:
-다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이   
-링크 :  https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.md   
+다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이 <br>
+링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.md   
    
-옹알이(1) : String.replace 함수 사용   
+옹알이(1) : String.replace 함수 사용 <br>
 링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EC%98%B9%EC%95%8C%EC%9D%B41.md
 
 #### 윤태영:
-다음에 올 숫자 : 배열값으로 등차인지 등비인지 구한 후 다음값을 계산
+다음에 올 숫자 : 배열값으로 등차인지 등비인지 구한 후 다음값을 계산 <br>
 링크 :https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90
 
-옹알이(1): babbling에 4가지 발음의 포함 유무를 확인해서 문제 풀이 
+옹알이(1): babbling에 4가지 발음의 포함 유무를 확인해서 문제 풀이 <br>
 링크:https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
 #### 김주현:
