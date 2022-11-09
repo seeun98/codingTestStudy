@@ -21,10 +21,10 @@
 링크 : https://isshosng.tistory.com/112
 
 #### 이세은:
-다음에 올 숫자 : 등차 먼저 확인하는 풀이<br>
+다음에 올 숫자 : 등차, 등비 각각 함수로 만들고 등차함수부터 확인하는 풀이 <br>
 링크 : https://broadleaf-palm-bbe.notion.site/0f596704e9a54a5f89a3be1bcfe9719b
 
-옹알이(1) : while문 + for문을 이용한 단순 풀이 <br>
+옹알이(1) : contains 함수로 문자열이 포함되어 있는지 확인, replace 함수로 문자열 삭제 후 길이 확인하는 풀이 <br>
 링크 : https://broadleaf-palm-bbe.notion.site/6287e921e4734b6da319c049d39012d9
 
 #### 왕종휘: 
