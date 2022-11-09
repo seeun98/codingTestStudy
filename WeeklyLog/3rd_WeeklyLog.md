@@ -72,7 +72,7 @@
 다음에 올 숫자 : for문으로 등차수열이 아닌 경우 등비수열값 리턴, 등차수열이면 등차수열 값 리턴 <br>
 링크: https://gist.github.com/KimKayaToast/1d3fe62e344f300a8f70f7c3e52967de
 
-옹알이(1): replace()를 사용해서 '.'외의 값이 없는 경우만 카운트
+옹알이(1): replace()를 사용해서 '.'외의 값이 없는 경우만 카운트 <br>
 링크: https://gist.github.com/KimKayaToast/6a928c39fc2db93960d8f6b890e05cdc
 
 ## 🔻스터디 사진 <br>
