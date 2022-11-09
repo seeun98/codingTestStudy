@@ -33,6 +33,7 @@
 #### 소규석:
 다음에 올 숫자 : 등차 수열의 정의를 이용한 문제 풀이<br>
 링크 : https://gist.github.com/thrbtjr/16c78a46aaa75a9beccce4cc15344f96
+
 옹알이(1) : if문과 for문을 이용한 문제 풀이<br>
 링크 : https://gist.github.com/thrbtjr/d7c8dca74352a4a01858bdac5b7a2a41
 
