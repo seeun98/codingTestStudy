@@ -43,7 +43,11 @@
 #### 정기범:
 링크
 
-#### 김한울: String.replace 함수 사용   
+#### 김한울:
+다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이   
+링크 :  https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.md   
+   
+옹알이(1) : String.replace 함수 사용   
 링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EC%98%B9%EC%95%8C%EC%9D%B41.md
 
 #### 윤태영:
