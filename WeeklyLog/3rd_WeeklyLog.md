@@ -23,7 +23,11 @@
 #### 이세은:
 링크
 
-#### 왕종휘: while문 + for문을 이용한 단순 풀이
+#### 왕종휘: 
+다음에 올 숫자 : 등차 먼저 확인하는 풀이
+링크 : https://gist.github.com/woowang789/1fbf79ef4e07eaa762ae63d7fe907e23
+
+옹알이(1) : while문 + for문을 이용한 단순 풀이
 링크 : https://gist.github.com/woowang789/6d1639c75512ec944ef8cd8bd13ec336
 
 #### 소규석:
