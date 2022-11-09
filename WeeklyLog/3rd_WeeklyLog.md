@@ -8,7 +8,7 @@
 
 ### 알고리즘 문제
 
-프로그래머스 : 평행 링크 https://school.programmers.co.kr/learn/courses/30/lessons/120875 <br>
+프로그래머스 : 다음에 올 숫자 링크 https://school.programmers.co.kr/learn/courses/30/lessons/120924 <br>
 프로그래머스 : 옹알이(1) 링크 https://school.programmers.co.kr/learn/courses/30/lessons/120956
 
 ### 풀이 과정
