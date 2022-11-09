@@ -48,8 +48,8 @@
 옹알이(1) : replace를 이용해 babbling 발음을 교체하여, babbling 외의 발음 유무를 구별 <br>
 링크 : https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
-#### 박정훈:
-링크
+#### 박정훈: 배열로 확인하여 등차, 등비를 구분 후 결과 계산 <br>
+링크 : https://gist.github.com/parkhoome/e784276113af7edecee1ec7f4cdc5f52
 
 #### 정기범:
 링크
