@@ -49,12 +49,14 @@
 링크 : https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
 #### 박정훈: 
-배열로 확인하여 등차, 등비를 구분 후 결과 계산 <br>
+다음에 올 숫자 : 배열로 확인하여 등차, 등비를 구분 후 결과 계산 <br>
 링크 : https://gist.github.com/parkhoome/e784276113af7edecee1ec7f4cdc5f52
 
+옹알이(1) : 문제 미해결 <br>
+링크 : https://gist.github.com/parkhoome/5396549d4c283d7c9a343576edc84a04
+
 #### 정기범:
-옹알이(1) : 모든 단어의 조합을 만들어서 비교
-링크 : https://gist.github.com/Kieeary/f90ac5ea3dad31239dab1f4966d75e32
+링크
 
 #### 김한울:
 다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이 <br>
