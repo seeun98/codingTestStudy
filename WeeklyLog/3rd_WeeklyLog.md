@@ -34,6 +34,8 @@
 링크
 
 #### 박세영:
+다음에 올 숫자 : 배열의 0,1,2번째 값을 통해 등차수열/등비수열임을 if 비교 후 결과 계산 
+링크 : https://readyt0g0.tistory.com/entry/%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90
 옹알이(1) : replace를 이용해 babbling 발음을 교체하여, babbling 외의 발음 유무를 구별
 링크 : https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
