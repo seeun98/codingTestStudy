@@ -31,7 +31,10 @@
 링크 : https://gist.github.com/woowang789/6d1639c75512ec944ef8cd8bd13ec336
 
 #### 소규석:
-링크
+다음에 올 숫자 : 등차 수열의 정의를 이용한 문제 풀이<br>
+링크 : https://gist.github.com/thrbtjr/16c78a46aaa75a9beccce4cc15344f96
+옹알이(1) : if문과 for문을 이용한 문제 풀이<br>
+링크 : https://gist.github.com/thrbtjr/d7c8dca74352a4a01858bdac5b7a2a41
 
 #### 박세영:
 다음에 올 숫자 : 배열의 0,1,2번째 값을 통해 등차수열/등비수열임을 if 비교 후 결과 계산 
