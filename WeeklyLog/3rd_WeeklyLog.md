@@ -53,7 +53,8 @@
 링크 : https://gist.github.com/parkhoome/e784276113af7edecee1ec7f4cdc5f52
 
 #### 정기범:
-링크
+옹알이(1) : 모든 단어의 조합을 만들어서 비교
+링크 : https://gist.github.com/Kieeary/f90ac5ea3dad31239dab1f4966d75e32
 
 #### 김한울:
 다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이 <br>
