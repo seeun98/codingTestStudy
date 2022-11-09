@@ -33,8 +33,8 @@
 #### 정기범:
 링크
 
-#### 김한울:
-링크
+#### 김한울: String.replace 함수 사용   
+링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EC%98%B9%EC%95%8C%EC%9D%B41.md
 
 #### 윤태영:
 링크
