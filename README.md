@@ -63,7 +63,8 @@
 <hr>
 <ul>
     <li>
-        <a href="WeeklyLog/1st_WeeklyLog.md">1ST_WeeklyLog</a>
+        <a href="WeeklyLog/1st_WeeklyLog.md">1ST_WeeklyLog</a> <br>
+        <a href="WeeklyLog/2nd_WeeklyLog.md">2ND_WeeklyLog</a> <br>
     </li>
 </ul>
 
