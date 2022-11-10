@@ -64,10 +64,10 @@
 
 #### 김한울:
 다음에 올 숫자 : if문으로 등차인지 등비인지 판단하여 문제 풀이 <br>
-링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.md   
+링크 : https://gist.github.com/HanulK/a7a7909f32ae323a53c9cba440e2b931   
    
 옹알이(1) : String.replace 함수 사용 <br>
-링크 : https://github.com/HanulK/KOSAedu/blob/main/codeDescription/p%EC%98%B9%EC%95%8C%EC%9D%B41.md
+링크 : https://gist.github.com/HanulK/c2aebc0d08ea23db829c8b487e8016bb
 
 #### 윤태영:
 다음에 올 숫자 : 배열값으로 등차인지 등비인지 구한 후 다음값을 계산 <br>
