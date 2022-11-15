@@ -16,8 +16,8 @@
 #### 최태승: Arrays 사용
 링크 : https://isshosng.tistory.com/115
 
-#### 이세은:
-링크 :
+#### 이세은: map 사용, 문자열 개수 count
+링크 : https://broadleaf-palm-bbe.notion.site/35fc24e697e84ee9a95a03659292c5b7
 
 #### 왕종휘: 
 링크 : 
