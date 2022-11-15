@@ -40,8 +40,8 @@
 #### 윤태영: 배열과 문자열 비교를 이용한 풀이
 링크 : https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98
 
-#### 김주현:
-링크: 
+#### 김주현: Map 사용
+링크: https://gist.github.com/KimKayaToast/0ebce7a1c06562c7ac1b6e3e4272e7c5
 
 ## 🔻스터디 사진 <br>
 ![image](https://github.com/seeun98/codingTestStudy/blob/main/image/KakaoTalk_20221109_203448859_02.jpg)
