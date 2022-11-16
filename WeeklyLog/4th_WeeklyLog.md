@@ -25,8 +25,8 @@
 #### 소규석:
 링크 : 
 
-#### 박세영:
-링크 :
+#### 박세영: 배열을 sort 처리해 **같은 index, 다른 이름**으로 이름 수가 다른 경우를  찾아낸다.
+링크 :https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98
 
 #### 박정훈
 링크 : 
