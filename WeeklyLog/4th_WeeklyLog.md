@@ -19,8 +19,8 @@
 #### 이세은: map 사용, 문자열 개수 count
 링크 : https://broadleaf-palm-bbe.notion.site/35fc24e697e84ee9a95a03659292c5b7
 
-#### 왕종휘: 
-링크 : 
+#### 왕종휘: hashMap을 사용한 풀이
+링크 : https://gist.github.com/woowang789/2765bf0dc9894fa090149b6100d776d0
 
 #### 소규석: Map 사용
 링크 : https://gist.github.com/thrbtjr/e519add47e12dbbdf31b8fe28f1ada66
