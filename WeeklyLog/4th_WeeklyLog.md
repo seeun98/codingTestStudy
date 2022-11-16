@@ -31,8 +31,8 @@
 #### 박정훈
 링크 : 
 
-#### 정기범:
-링크 : 
+#### 정기범: Map을 이용하여 value값이 1인것을 값으로 계산
+링크 : https://keeyary.tistory.com/145
 
 #### 김한울: Map 사용. key값 체크를 이용   
 링크 : https://gist.github.com/HanulK/eec5f309a1aa6882c068144691b2f588
