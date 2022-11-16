@@ -22,7 +22,7 @@
 #### 왕종휘: 
 링크 : 
 
-#### 소규석: ap 사용
+#### 소규석: Map 사용
 링크 : https://gist.github.com/thrbtjr/e519add47e12dbbdf31b8fe28f1ada66
 
 #### 박세영: 배열을 sort 처리해 **같은 index, 다른 이름**으로 이름 수가 다른 경우를  찾아낸다.
