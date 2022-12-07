@@ -20,8 +20,8 @@
 #### 왕종휘:
 링크:
 
-#### 소규석:for문과 큐를 이용하여 풀이
-링크:https://gist.github.com/thrbtjr/3cf41c6cafe5ce077579c180f266aa54
+#### 소규석: for문과 큐를 이용하여 풀이
+링크: https://gist.github.com/thrbtjr/3cf41c6cafe5ce077579c180f266aa54
 
 #### 박세영:
 링크:
