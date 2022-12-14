@@ -7,7 +7,7 @@
 ## 🔻 내용 요약 <br>
 
 ### 알고리즘 문제
-프로그래머스 :  https://school.programmers.co.kr/learn/courses/30/lessons/42586 <br>
+프로그래머스 : [기능개발]  https://school.programmers.co.kr/learn/courses/30/lessons/42586 <br>
 
 ### 풀이 과정
 
