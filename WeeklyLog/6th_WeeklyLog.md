@@ -31,7 +31,8 @@
 링크:
 
 #### 정기범: 
-링크: 
+[소수찾기] https://keeyary.tistory.com/159
+[스킬트리] https://keeyary.tistory.com/160
 
 #### 김한울: 재귀 함수 사용, 역행 확인   
 링크:   
