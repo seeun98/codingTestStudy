@@ -33,8 +33,10 @@
 #### 정기범: 
 링크: 
 
-#### 김한울:
-링크:
+#### 김한울: 재귀 함수 사용, 역행 확인   
+링크:   
+[소수 찾기] https://gist.github.com/HanulK/fc453be086be93509b7ad4d154af8866   
+[스킬 트리] https://gist.github.com/HanulK/15d78b0b5d330dd0ff3f37e1de10836e
 
 #### 윤태영: 
 링크: 
