@@ -24,6 +24,7 @@
 #### 소규석: 
 링크:
 
+[스킬트리] https://gist.github.com/thrbtjr/14c3647f1e0643dd391a3c4bc6809fab
 #### 박세영:
 링크:
 
