@@ -19,7 +19,7 @@
 링크: 
 
 #### 왕종휘:
-[소수찾기] <a href="https://gist.github.com/woowang789/7c5cf55b9d854cf6fc02a68153f58dad">완전탐색 + HashSet을 이용한 풀이</a>
+[소수찾기] <a href="https://gist.github.com/woowang789/7c5cf55b9d854cf6fc02a68153f58dad">완전탐색 + HashSet을 이용한 풀이</a> <br>
 [스킬트리] <a href="https://gist.github.com/woowang789/09b0b1d73748d28682a8ada179d28e1e">HashMap을 이용한 풀이</a>
 #### 소규석: 
 링크:
