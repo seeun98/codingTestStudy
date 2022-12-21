@@ -17,6 +17,8 @@
 
 #### 이세은: 
 링크: 
+[스킬트리] https://github.com/seeun98/codingTestStudy/blob/seeun/src/seeun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.md </br>
+ 문자열 비교
 
 #### 왕종휘:
 [소수찾기] <a href="https://gist.github.com/woowang789/7c5cf55b9d854cf6fc02a68153f58dad">완전탐색 + HashSet을 이용한 풀이</a> <br>
