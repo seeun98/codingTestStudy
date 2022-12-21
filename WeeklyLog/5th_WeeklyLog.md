@@ -39,7 +39,7 @@
 링크: https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C
 
 #### 김주현:
-링크:
+링크: https://gist.github.com/KimKayaToast/c18aba28e5520247bfcb5c4a1d6ce1e3
 
 ## 🔻스터디 사진 <br>
 ![image](https://github.com/seeun98/codingTestStudy/blob/main/image/5%EC%A3%BC%EC%B0%A8.jpg)
