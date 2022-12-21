@@ -45,7 +45,7 @@
 
 #### 김주현:
 링크:
-[소수 찾기]  https://gist.github.com/KimKayaToast/77d2d243ac54318d83f1be63dbed061a -조합(재귀) + 소수판별
-[스킬 트리] https://gist.github.com/KimKayaToast/ff77182aaa9bfc0095313c27a53d03c3 - 
+[소수 찾기]  https://gist.github.com/KimKayaToast/77d2d243ac54318d83f1be63dbed061a -조합(재귀) + 소수판별 <br>
+[스킬 트리] https://gist.github.com/KimKayaToast/ff77182aaa9bfc0095313c27a53d03c3
 ## 🔻스터디 사진 <br>
 
