@@ -26,7 +26,8 @@
 
 [스킬트리] https://gist.github.com/thrbtjr/14c3647f1e0643dd391a3c4bc6809fab
 #### 박세영:
-링크:
+[소수찾기] # <br>
+[스킬트리] <a href="https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC">주어진 skill 외에는 전부 삭제, split을 통해 skill과 스킬 트리 순서 비교</a>
 
 #### 박정훈:
 링크:
