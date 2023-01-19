@@ -45,6 +45,6 @@
 링크:
 
 #### 남승현:
-링크:
+링크: [피로도 문제 해결](https://github.com/seeun98/codingTestStudy/blob/seunghyean/codingTestStudy/src/seunghyean/pgm/java/algorithm/%ED%94%BC%EB%A1%9C%EB%8F%84.java)
 ## 🔻스터디 사진 <br>
 <img src="https://github.com/seeun98/codingTestStudy/blob/main/image/7%EC%A3%BC%EC%B0%A8.jpg?raw=true">
