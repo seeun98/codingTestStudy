@@ -8,6 +8,7 @@
 
 ### 알고리즘 문제
 프로그래머스 : [신규 아이디 추천] https://school.programmers.co.kr/learn/courses/30/lessons/72410
+              [피로도] https://school.programmers.co.kr/learn/courses/30/lessons/87946
 
 ### 풀이 과정
 
