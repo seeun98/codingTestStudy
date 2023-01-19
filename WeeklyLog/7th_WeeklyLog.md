@@ -43,4 +43,4 @@
 링크:
 
 ## 🔻스터디 사진 <br>
-
+<img src="https://github.com/seeun98/codingTestStudy/blob/main/image/7%EC%A3%BC%EC%B0%A8.jpg?raw=true">
