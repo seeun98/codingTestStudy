@@ -23,6 +23,8 @@
 
 #### 왕종휘:
 링크:
+[피로도](https://gist.github.com/woowang789/307789e88bfe3478ec87680ef92d887f),
+[신규 아이디 추천](https://gist.github.com/woowang789/81955f789b3db75a49da6c5065b84a6f)
 
 #### 소규석: 
 링크:
