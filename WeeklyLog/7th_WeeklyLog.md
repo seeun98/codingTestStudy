@@ -40,7 +40,7 @@
 [피로도](https://gist.github.com/HanulK/de5a638b9bae64b62aa3460c3e74d65a)
 
 #### 윤태영: 
-링크: 
+링크: [피로도](https://velog.io/@yoontaeng/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%BC%EB%A1%9C%EB%8F%84)
 
 #### 김주현:
 링크:
