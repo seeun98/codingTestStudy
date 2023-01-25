@@ -36,7 +36,8 @@
 링크:
 
 #### 김한울: 
-링크:   
+링크:   [신규 아이디 추천](https://gist.github.com/HanulK/e4856c242595b79e0fbe34f70b310045), 
+[피로도](https://gist.github.com/HanulK/de5a638b9bae64b62aa3460c3e74d65a)
 
 #### 윤태영: 
 링크: 
