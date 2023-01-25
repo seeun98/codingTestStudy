@@ -26,8 +26,8 @@
 
 #### 소규석: 
 링크:
-[피로도]: https://gist.github.com/thrbtjr/7e0ba7ce54557ac20bac16861f74fba4
-[신규 아이디 추천]: https://gist.github.com/thrbtjr/2ae0ca4fd5e96fc7ca6e8ae8dc8239ef
+[피로도](https://gist.github.com/thrbtjr/7e0ba7ce54557ac20bac16861f74fba4), 
+[신규 아이디 추천](https://gist.github.com/thrbtjr/2ae0ca4fd5e96fc7ca6e8ae8dc8239ef)
 
 #### 박세영:
 링크: 
