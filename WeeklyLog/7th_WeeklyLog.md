@@ -39,6 +39,8 @@
 
 #### 정기범: 
 링크:
+[피로도](https://keeyary.tistory.com/163)
+[신규 아이디 추천](https://keeyary.tistory.com/161)
 
 #### 김한울: 
 링크:   [신규 아이디 추천](https://gist.github.com/HanulK/e4856c242595b79e0fbe34f70b310045), 
