@@ -1,0 +1,17 @@
+## [프로그래머스] 서울에 위치한 식당목록 출력하기
+https://school.programmers.co.kr/learn/courses/30/lessons/131118#qna
+
+### SOLUTION
+```SQL
+-- 코드를 입력하세요
+SELECT T.REST_ID, I.REST_NAME, I.FOOD_TYPE, I.FAVORITES, I.ADDRESS, T.SCORE
+FROM (SELECT REST_ID, ROUND(SUM(REVIEW_SCORE)/COUNT(REST_ID), 2) AS "SCORE"
+FROM REST_REVIEW
+GROUP BY REST_ID) T, REST_INFO I
+WHERE T.REST_ID = I.REST_ID AND I.ADDRESS LIKE '서울%'
+ORDER BY T.SCORE DESC, I.FAVORITES DESC
+```
+
+
+### 참고
+- ADDRESS LIKE '%서울%' -> '서울%'로 변경
