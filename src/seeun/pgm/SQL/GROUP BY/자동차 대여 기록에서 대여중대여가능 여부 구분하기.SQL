@@ -1,0 +1,37 @@
+## [프로그래머스] 자동차 대여 기록에서 대여중/대여 가능 여부 구분하기
+https://school.programmers.co.kr/learn/courses/30/lessons/157340
+
+### SOLUTION
+```SQL
+SELECT CAR_ID,
+MAX(CASE 
+WHEN '2022-10-16' BETWEEN TO_CHAR(START_DATE, 'YYYY-MM-DD') AND TO_CHAR(END_DATE, 'YYYY-MM-DD') 
+THEN '대여중'
+ELSE '대여 가능'
+END) AS "AVAILABILITY"
+FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+GROUP BY CAR_ID
+ORDER BY CAR_ID DESC
+```
+
+```SQL
+SELECT T.CAR_ID, MAX(T.AVAILABILITY) AS "AVAILABILITY"
+FROM (SELECT CAR_ID,
+CASE 
+WHEN '2022-10-16' BETWEEN TO_CHAR(START_DATE, 'YYYY-MM-DD') AND TO_CHAR(END_DATE, 'YYYY-MM-DD') 
+THEN '대여중'
+ELSE '대여 가능'
+END AS "AVAILABILITY"
+FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY) T, CAR_RENTAL_COMPANY_RENTAL_HISTORY C
+WHERE T.CAR_ID = C.CAR_ID
+GROUP BY T.CAR_ID
+ORDER BY T.CAR_ID DESC
+
+```
+### 참고
+- TO_CHAR(START_DATE, 'YYYY-MM-DD') < '2022-10-16' AND TO_CHAR(END_DATE, 'YYYY-MM-DD') >= '2022-10-16'
+이랑 다른 결과 .. 
+
+-그러나 TO_CHAR() 함수는 날짜 데이터를 문자열로 변환하기 때문에, 문자열로 변환된 날짜 데이터끼리 비교하게 됩니다. 이 경우, 날짜 데이터가 아닌 문자열 데이터끼리 비교하게 되어 예상치 못한 결과가 나올 수 있음.
+
+따라서 '2022-10-16' BETWEEN TO_CHAR(START_DATE, 'YYYY-MM-DD') AND TO_CHAR(END_DATE, 'YYYY-MM-DD')와 같이 비교하는 것이 더 안전하며, 원하는 결과를 얻을 수 있을 것
