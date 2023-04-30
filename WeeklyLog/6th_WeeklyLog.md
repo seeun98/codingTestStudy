@@ -13,7 +13,7 @@
 ### 풀이 과정
 
 #### 최태승:
-링크: [소수찾기, DFS사용](https://isshosng.tistory.com/150)
+링크: [소수찾기, DFS사용](https://isshosng.tistory.com/150)<br>
      [스킬트리, int[]](https://isshosng.tistory.com/151)
 
 
