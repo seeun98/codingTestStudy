@@ -11,8 +11,8 @@
 
 ### 풀이 과정
 
-#### 최태승:
-[기능개발, Queue 사용](https://isshosng.tistory.com/124)
+#### 최태승: Queue 사용
+[기능개발](https://isshosng.tistory.com/124)
 
 #### 이세은: for문으로 개수 세기
 링크: https://github.com/seeun98/codingTestStudy/blob/seeun/src/seeun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.md
